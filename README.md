@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nansky
 - 👀 I’m interested in Programming, Data Analytics
-- 🌱 I’m currently learning Go, Rust, and other new languages
+- 🌱 I’m currently Code in  Go. still learning Rust, and other new languages 
 - 📫 How to reach me : nanda.arta89@gmail.com
 
 <!---
