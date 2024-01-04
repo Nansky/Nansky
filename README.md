@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nansky
-- 👀 I’m interested in Programming, Data Analytics
+- 👀 I’m interested in Programming (focusing on Backend development), Data Analytics
 - 🌱 I’m currently Code in  Go. still learning Rust, other new languages and tech-stacks
 - 📫 How to reach me : nanda.arta89@gmail.com
 
